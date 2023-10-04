@@ -14,6 +14,7 @@
             "bath": 2,
             "sft": 1200
         },
+        "category": "london",
         "price": 1500
     },
     {
@@ -31,6 +32,7 @@
             "bath": 2,
             "sft": 2200
         },
+        "category": "london",
         "price": 250000
     },
     {
@@ -48,6 +50,7 @@
             "bath": 1,
             "sft": 800
         },
+        "category": "london",
         "price": 1200
     },
     {
@@ -65,6 +68,7 @@
             "bath": 3,
             "sft": 2800
         },
+        "category": "london",
         "price": 350000
     },
     {
@@ -82,6 +86,7 @@
             "bath": 1,
             "sft": 1000
         },
+        "category": "london",
         "price": 1800
     },
     {
@@ -99,6 +104,7 @@
             "bath": 5,
             "sft": 4500
         },
+        "category": "london",
         "price": 750000
     },
     {
@@ -116,6 +122,7 @@
             "bath": 1,
             "sft": 1100
         },
+        "category": "london",
         "price": 1300
     },
     {
@@ -133,6 +140,7 @@
             "bath": 1,
             "sft": 900
         },
+        "category": "london",
         "price": 95000
     },
     {
@@ -150,6 +158,7 @@
             "bath": 2,
             "sft": 1400
         },
+        "category": "london",
         "price": 2200
     },
     {
@@ -167,6 +176,7 @@
             "bath": 2,
             "sft": 1200
         },
+        "category": "new_york",
         "price": 2500
     },
     {
@@ -184,6 +194,7 @@
             "bath": 3,
             "sft": 1800
         },
+        "category": "new_york",
         "price": 850000
     },
     {
@@ -201,6 +212,7 @@
             "bath": 1,
             "sft": 800
         },
+        "category": "new_york",
         "price": 1800
     },
     {
@@ -218,6 +230,7 @@
             "bath": 4,
             "sft": 2800
         },
+        "category": "new_york",
         "price": 1250000
     },
     {
@@ -235,6 +248,7 @@
             "bath": 1,
             "sft": 500
         },
+        "category": "new_york",
         "price": 1500
     },
     {
@@ -252,6 +266,7 @@
             "bath": 4,
             "sft": 3500
         },
+        "category": "new_york",
         "price": 2100000
     },
     {
@@ -269,6 +284,7 @@
             "bath": 2,
             "sft": 1600
         },
+        "category": "new_york",
         "price": 2800
     },
     {
@@ -286,6 +302,7 @@
             "bath": 3,
             "sft": 2200
         },
+        "category": "new_york",
         "price": 1700000
     },
     {
@@ -303,6 +320,7 @@
             "bath": 1,
             "sft": 1200
         },
+        "category": "new_york",
         "price": 2400
     },
     {
@@ -320,6 +338,7 @@
             "bath": 2,
             "sft": 1200
         },
+        "category": "mumbai",
         "price": 30000
     },
     {
@@ -337,6 +356,7 @@
             "bath": 5,
             "sft": 3500
         },
+        "category": "mumbai",
         "price": 45000000
     },
     {
@@ -354,6 +374,7 @@
             "bath": 1,
             "sft": 800
         },
+        "category": "mumbai",
         "price": 25000
     },
     {
@@ -371,6 +392,7 @@
             "bath": 4,
             "sft": 4000
         },
+        "category": "mumbai",
         "price": 85000000
     },
     {
@@ -388,6 +410,7 @@
             "bath": 1,
             "sft": 500
         },
+        "category": "mumbai",
         "price": 15000
     },
     {
@@ -405,6 +428,7 @@
             "bath": 3,
             "sft": 2200
         },
+        "category": "mumbai",
         "price": 22000000
     },
     {
@@ -422,6 +446,7 @@
             "bath": 2,
             "sft": 1500
         },
+        "category": "mumbai",
         "price": 28000
     },
     {
@@ -439,6 +464,7 @@
             "bath": 7,
             "sft": 6000
         },
+        "category": "mumbai",
         "price": 120000000
     },
     {
@@ -456,6 +482,7 @@
             "bath": 3,
             "sft": 2000
         },
+        "category": "mumbai",
         "price": 35000
     },
     {
@@ -473,6 +500,7 @@
             "bath": 2,
             "sft": 1200
         },
+        "category": "paris",
         "price": 2500
     },
     {
@@ -490,6 +518,7 @@
             "bath": 3,
             "sft": 2200
         },
+        "category": "paris",
         "price": 450000
     },
     {
@@ -507,6 +536,7 @@
             "bath": 1,
             "sft": 800
         },
+        "category": "paris",
         "price": 1800
     },
     {
@@ -524,6 +554,7 @@
             "bath": 7,
             "sft": 4500
         },
+        "category": "paris",
         "price": 1200000
     },
     {
@@ -541,6 +572,7 @@
             "bath": 1,
             "sft": 500
         },
+        "category": "paris",
         "price": 1500
     },
     {
@@ -558,6 +590,7 @@
             "bath": 6,
             "sft": 5500
         },
+        "category": "paris",
         "price": 3800000
     },
     {
@@ -575,6 +608,7 @@
             "bath": 2,
             "sft": 1600
         },
+        "category": "paris",
         "price": 2800
     },
     {
@@ -592,6 +626,7 @@
             "bath": 5,
             "sft": 3200
         },
+        "category": "paris",
         "price": 5600000
     },
     {
@@ -609,6 +644,7 @@
             "bath": 1,
             "sft": 700
         },
+        "category": "paris",
         "price": 2000
     }
 ]
