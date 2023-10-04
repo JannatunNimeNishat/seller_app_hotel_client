@@ -1,0 +1,614 @@
+[
+    {
+        "_id": 1,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/F7zqPgp/Cozy-Apartment1.jpg",
+            "https://i.ibb.co/YpQ4CdS/Cozy-Apartment2.jpg"
+        ],
+        "location": "8558 Parker Rd.",
+        "title": "Cozy Apartment - 8558 Parker Rd.,",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1200
+        },
+        "price": 1500
+    },
+    {
+        "_id": 2,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/P9NmSJM/Spacious-House1.jpg",
+            "https://i.ibb.co/VTqSxv2/Spacious-House2.jpg"
+        ],
+        "location": "123 Main St.",
+        "title": "Spacious House - 123 Main St.",
+        "properties": {
+            "rooms": 5,
+            "bed": 3,
+            "bath": 2,
+            "sft": 2200
+        },
+        "price": 250000
+    },
+    {
+        "_id": 3,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/2MMC24F/Modern-Loft1.jpg",
+            "https://i.ibb.co/zXmdzm4/Modern-Loft2.jpg"
+        ],
+        "location": "456 Elm St.",
+        "title": "Modern Loft - 456 Elm St.",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 800
+        },
+        "price": 1200
+    },
+    {
+        "_id": 4,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/MsTybvW/Family-Home1.jpg",
+            "https://i.ibb.co/zHk9vJ3/Family-Home2.jpg"
+        ],
+        "location": "789 Oak Ave.",
+        "title": "Family Home - 789 Oak Ave.",
+        "properties": {
+            "rooms": 6,
+            "bed": 4,
+            "bath": 3,
+            "sft": 2800
+        },
+        "price": 350000
+    },
+    {
+        "_id": 5,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/mF9qhYF/Downtown-Apartment2.jpg",
+            "https://i.ibb.co/mF9qhYF/Downtown-Apartment2.jpg"
+        ],
+        "location": "1011 Maple Rd.",
+        "title": "Downtown Apartment - 1011 Maple Rd.",
+        "properties": {
+            "rooms": 4,
+            "bed": 2,
+            "bath": 1,
+            "sft": 1000
+        },
+        "price": 1800
+    },
+    {
+        "_id": 6,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/2jXxBVs/Luxury-Villa1.jpg",
+            "https://i.ibb.co/ZVH5VCS/Luxury-Villa2.jpg"
+        ],
+        "location": "1313 Pine Ln.",
+        "title": "Luxury Villa - 1313 Pine Ln.",
+        "properties": {
+            "rooms": 8,
+            "bed": 5,
+            "bath": 5,
+            "sft": 4500
+        },
+        "price": 750000
+    },
+    {
+        "_id": 7,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/09fY7Bc/Charming-Cottage1.jpg",
+            "https://i.ibb.co/KrbJb9Y/Charming-Cottage2.jpg"
+        ],
+        "location": "1515 Cedar St.",
+        "title": "Charming Cottage - 1515 Cedar St.",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 1,
+            "sft": 1100
+        },
+        "price": 1300
+    },
+    {
+        "_id": 8,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/4NRf67C/Rustic-Cabin1.jpg",
+            "https://i.ibb.co/GQBTGtr/Rustic-Cabin2.jpg"
+        ],
+        "location": "1717 Redwood Ave.",
+        "title": "Rustic Cabin - 1717 Redwood Ave.",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 900
+        },
+        "price": 95000
+    },
+    {
+        "_id": 9,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/WKrMzwD/City-View-Condo1.jpg",
+            "https://i.ibb.co/6Z1LD6X/City-View-Condo2.jpg"
+        ],
+        "location": "1919 Birch Rd.",
+        "title": "City View Condo - 1919 Birch Rd.",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1400
+        },
+        "price": 2200
+    },
+    {
+        "_id": 10,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/VTHGqqf/Cozy-Apartment-New-York1.jpg",
+            "https://i.ibb.co/tcpjhZT/Cozy-Apartment-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Cozy Apartment - New York",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1200
+        },
+        "price": 2500
+    },
+    {
+        "_id": 11,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/dJVSQ2b/Luxury-Condo-New-York1.jpg",
+            "https://i.ibb.co/WWWbdsG/Luxury-Condo-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Luxury Condo - New York",
+        "properties": {
+            "rooms": 4,
+            "bed": 3,
+            "bath": 3,
+            "sft": 1800
+        },
+        "price": 850000
+    },
+    {
+        "_id": 12,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/27sBPBM/Downtown-Loft-New-York1.jpg",
+            "https://i.ibb.co/Pzh9gxC/Downtown-Loft-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Downtown Loft - New York",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 800
+        },
+        "price": 1800
+    },
+    {
+        "_id": 13,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/r0hTBhj/Spacious-Penthouse-New-York1.jpg",
+            "https://i.ibb.co/Zhb3r1p/Spacious-Penthouse-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Spacious Penthouse - New York",
+        "properties": {
+            "rooms": 6,
+            "bed": 4,
+            "bath": 4,
+            "sft": 2800
+        },
+        "price": 1250000
+    },
+    {
+        "_id": 14,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/F6hwCp7/Modern-Studio-New-York1.jpg",
+            "https://i.ibb.co/4j7RrHs/Modern-Studio-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Modern Studio - New York",
+        "properties": {
+            "rooms": 1,
+            "bed": 0,
+            "bath": 1,
+            "sft": 500
+        },
+        "price": 1500
+    },
+    {
+        "_id": 15,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/tctBnPF/Luxury-Brownstone-New-York1.jpg",
+            "https://i.ibb.co/7g7G6n6/Luxury-Brownstone-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Luxury Brownstone - New York",
+        "properties": {
+            "rooms": 7,
+            "bed": 5,
+            "bath": 4,
+            "sft": 3500
+        },
+        "price": 2100000
+    },
+    {
+        "_id": 16,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/Xt3gnYX/Cozy-Townhouse-New-York1.jpg",
+            "https://i.ibb.co/P1wSQqD/Cozy-Townhouse-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Cozy Townhouse - New York",
+        "properties": {
+            "rooms": 4,
+            "bed": 3,
+            "bath": 2,
+            "sft": 1600
+        },
+        "price": 2800
+    },
+    {
+        "_id": 17,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/D746TQZ/Luxury-Highrise-New-York1.jpg",
+            "https://i.ibb.co/XZmqpm9/Luxury-Highrise-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Luxury High-rise - New York",
+        "properties": {
+            "rooms": 5,
+            "bed": 4,
+            "bath": 3,
+            "sft": 2200
+        },
+        "price": 1700000
+    },
+    {
+        "_id": 18,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/R3P0kdz/Charming-Brownstone-New-York1.jpg",
+            "https://i.ibb.co/xGxwt0k/Charming-Brownstone-New-York2.jpg"
+        ],
+        "location": "New York",
+        "title": "Charming Brownstone - New York",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 1,
+            "sft": 1200
+        },
+        "price": 2400
+    },
+    {
+        "_id": 19,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/kcRj2Mz/Sea-View-Apartment-Mumbai1.jpg",
+            "https://i.ibb.co/rcGCHrZ/Sea-View-Apartment-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Sea View Apartment - Mumbai",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1200
+        },
+        "price": 30000
+    },
+    {
+        "_id": 20,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/6Hqfrgc/Luxury-Villa-Mumbai1.jpg",
+            "https://i.ibb.co/48CZ9Q4/Luxury-Villa-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Luxury Villa - Mumbai",
+        "properties": {
+            "rooms": 5,
+            "bed": 4,
+            "bath": 5,
+            "sft": 3500
+        },
+        "price": 45000000
+    },
+    {
+        "_id": 21,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/tctBnPF/Luxury-Brownstone-New-York1.jpg",
+            "https://i.ibb.co/7g7G6n6/Luxury-Brownstone-New-York2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Downtown Loft - Mumbai",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 800
+        },
+        "price": 25000
+    },
+    {
+        "_id": 22,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/9vqY5xB/Luxury-Penthouse-Mumbai1.jpg",
+            "https://i.ibb.co/NS3cPZV/Luxury-Penthouse-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Luxury Penthouse - Mumbai",
+        "properties": {
+            "rooms": 6,
+            "bed": 5,
+            "bath": 4,
+            "sft": 4000
+        },
+        "price": 85000000
+    },
+    {
+        "_id": 23,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/F6hwCp7/Modern-Studio-New-York1.jpg",
+            "https://i.ibb.co/4j7RrHs/Modern-Studio-New-York2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Modern Studio - Mumbai",
+        "properties": {
+            "rooms": 1,
+            "bed": 0,
+            "bath": 1,
+            "sft": 500
+        },
+        "price": 15000
+    },
+    {
+        "_id": 24,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/xX2X97K/Luxury-High-rise-Mumbai1.jpg",
+            "https://i.ibb.co/yQ9rrJN/Luxury-High-rise-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Luxury High-rise - Mumbai",
+        "properties": {
+            "rooms": 4,
+            "bed": 3,
+            "bath": 3,
+            "sft": 2200
+        },
+        "price": 22000000
+    },
+    {
+        "_id": 25,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/YLRD1BT/Elegant-Condo-Mumbai1.jpg",
+            "https://i.ibb.co/SK91T0H/Elegant-Condo-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Elegant Condo - Mumbai",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1500
+        },
+        "price": 28000
+    },
+    {
+        "_id": 26,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/z4MrpkL/Spacious-Mansion-Mumbai1.jpg",
+            "https://i.ibb.co/rsJL30w/Spacious-Mansion-Mumbai2.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Spacious Mansion - Mumbai",
+        "properties": {
+            "rooms": 8,
+            "bed": 6,
+            "bath": 7,
+            "sft": 6000
+        },
+        "price": 120000000
+    },
+    {
+        "_id": 27,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/F7zqPgp/Cozy-Apartment1.jpg",
+            "https://i.ibb.co/Xt3gnYX/Cozy-Townhouse-New-York1.jpg"
+        ],
+        "location": "Mumbai",
+        "title": "Charming Bungalow - Mumbai",
+        "properties": {
+            "rooms": 4,
+            "bed": 3,
+            "bath": 3,
+            "sft": 2000
+        },
+        "price": 35000
+    },
+    {
+        "_id": 28,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/27sBPBM/Downtown-Loft-New-York1.jpg",
+            "https://i.ibb.co/Pzh9gxC/Downtown-Loft-New-York2.jpg"
+        ],
+        "location": "Paris",
+        "title": "Chic Apartment - Paris",
+        "properties": {
+            "rooms": 3,
+            "bed": 2,
+            "bath": 2,
+            "sft": 1200
+        },
+        "price": 2500
+    },
+    {
+        "_id": 29,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/48CZ9Q4/Luxury-Villa-Mumbai2.jpg",
+            "https://i.ibb.co/6Hqfrgc/Luxury-Villa-Mumbai1.jpg"
+        ],
+        "location": "Paris",
+        "title": "Elegant Townhouse - Paris",
+        "properties": {
+            "rooms": 5,
+            "bed": 4,
+            "bath": 3,
+            "sft": 2200
+        },
+        "price": 450000
+    },
+    {
+        "_id": 30,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/9vqY5xB/Luxury-Penthouse-Mumbai1.jpg",
+            "https://i.ibb.co/NS3cPZV/Luxury-Penthouse-Mumbai2.jpg"
+        ],
+        "location": "Paris",
+        "title": "Rooftop Studio - Paris",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 800
+        },
+        "price": 1800
+    },
+    {
+        "_id": 31,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/09fY7Bc/Charming-Cottage1.jpg",
+            "https://i.ibb.co/KrbJb9Y/Charming-Cottage2.jpg"
+        ],
+        "location": "Paris",
+        "title": "Luxury Chateau - Paris",
+        "properties": {
+            "rooms": 8,
+            "bed": 6,
+            "bath": 7,
+            "sft": 4500
+        },
+        "price": 1200000
+    },
+    {
+        "_id": 32,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/P9NmSJM/Spacious-House1.jpg",
+            "https://i.ibb.co/VTqSxv2/Spacious-House2.jpg"
+        ],
+        "location": "Paris",
+        "title": "Montmartre Loft - Paris",
+        "properties": {
+            "rooms": 1,
+            "bed": 0,
+            "bath": 1,
+            "sft": 500
+        },
+        "price": 1500
+    },
+    {
+        "_id": 33,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/MsTybvW/Family-Home1.jpg",
+            "https://i.ibb.co/zHk9vJ3/Family-Home2.jpg"
+        ],
+        "location": "Paris",
+        "title": "Historic Mansion - Paris",
+        "properties": {
+            "rooms": 10,
+            "bed": 7,
+            "bath": 6,
+            "sft": 5500
+        },
+        "price": 3800000
+    },
+    {
+        "_id": 34,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/yQ9rrJN/Luxury-High-rise-Mumbai2.jpg",
+            "https://i.ibb.co/xX2X97K/Luxury-High-rise-Mumbai1.jpg"
+        ],
+        "location": "Paris",
+        "title": "Eiffel Tower View Apartment - Paris",
+        "properties": {
+            "rooms": 4,
+            "bed": 3,
+            "bath": 2,
+            "sft": 1600
+        },
+        "price": 2800
+    },
+    {
+        "_id": 35,
+        "property_type": "Sale",
+        "images": [
+            "https://i.ibb.co/rcGCHrZ/Sea-View-Apartment-Mumbai2.jpg",
+            "https://i.ibb.co/kcRj2Mz/Sea-View-Apartment-Mumbai1.jpg"
+        ],
+        "location": "Paris",
+        "title": "French Riviera Villa - Paris",
+        "properties": {
+            "rooms": 6,
+            "bed": 4,
+            "bath": 5,
+            "sft": 3200
+        },
+        "price": 5600000
+    },
+    {
+        "_id": 36,
+        "property_type": "Rent",
+        "images": [
+            "https://i.ibb.co/Zhb3r1p/Spacious-Penthouse-New-York2.jpg",
+            "https://i.ibb.co/r0hTBhj/Spacious-Penthouse-New-York1.jpg"
+        ],
+        "location": "Paris",
+        "title": "Artistic Studio - Paris",
+        "properties": {
+            "rooms": 2,
+            "bed": 1,
+            "bath": 1,
+            "sft": 700
+        },
+        "price": 2000
+    }
+]
