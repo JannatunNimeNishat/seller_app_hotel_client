@@ -14,6 +14,7 @@ import { AiOutlineHeart } from "react-icons/ai";
 import { CiLocationOn } from "react-icons/ci";
 import { HiOutlineBuildingOffice2 } from "react-icons/hi2";
 import { LiaBathSolid } from "react-icons/lia";
+import { Link } from 'react-router-dom';
 
 const Hotel = ({ item }) => {
     console.log(item);
@@ -72,9 +73,9 @@ const Hotel = ({ item }) => {
                 <div className='py-2 flex items-center justify-between'>
                     <h3 className='text-[22px] font-bold py-1 text-blue-900'>{price}<small className='text-gray-600'>/month</small> </h3>
 
-                    <button className="bg-transparent border border-blue-900 text-blue-900 px-4 py-2 rounded-3xl  font-semibold flex items-center gap-1 hover:bg-blue-900 hover:text-white">
+                    <Link to={`/property/${_id}`} className="bg-transparent border border-blue-900 text-blue-900 px-4 py-2 rounded-3xl  font-semibold flex items-center gap-1 hover:bg-blue-900 hover:text-white">
                         Read More
-                    </button>
+                    </Link>
                 </div>
             </div>
         </div>
