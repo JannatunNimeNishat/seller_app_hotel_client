@@ -10,7 +10,6 @@ const Property = () => {
     const { id } = useParams();
     const { handleSinglePropertyPage, singleHotel } = useContext(HotelContext);
 
-
     useEffect(() => {
         handleSinglePropertyPage(id)
     }, [])

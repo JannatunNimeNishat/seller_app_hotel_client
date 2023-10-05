@@ -6,8 +6,7 @@ import data from '../../public/properties.json';
 export const HotelContext = createContext();
 
 const HotelProvider = ({ children }) => {
-    // 
-    const [allHotels, setAllHotels] = useState(data);
+
     //
     const [hotels, setHotels] = useState(data);
 
@@ -34,11 +33,9 @@ const HotelProvider = ({ children }) => {
 
     // handle single property 
     const handleSinglePropertyPage = (id) =>{
-       
         const singleProperty = data.filter(item => item._id === parseInt(id));
         setSingleHotel(singleProperty);
     }
-
 
     const values = {
         hotels,
